@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: aliceblue;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin: 0;
+}
+nav {
+  background-color: rgb(23, 92, 92);
+  height: 10vh;
+}
+main {
+  background-color: rgb(16, 16, 63);
+  min-height: 70vh;
+}
+footer {
+  background-color: rgb(51, 7, 7);
+  height: 20vh;
+}
